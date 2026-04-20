@@ -1,4 +1,5 @@
 Automobile Dashboard (AutoLens) — Power BI
+
 Overview
 This project presents an interactive Automobile Dashboard built using Power BI. It analyzes sales, profit, and vehicle performance across brands, models, vehicle types, countries, and time periods to generate actionable business insights.
 Objectives
